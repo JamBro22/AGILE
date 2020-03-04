@@ -1,0 +1,52 @@
+Agile Development Techniques
+1. Scrum
+-Key features:
+ -Sprint sessions: the larger team is broken into smaller groups and focus on a common goal.
+ -Progress display: it is important that teams communicate where they are at with each task.
+ -Burndown chart: this chart communicates how much work is left and when it should be finished.
+ -Precise meetings: meetings are held at short intervals with a few important questions to clarify tasks.
+-Key people:
+ -Scrum master: ensures that the team is completely functional and that everyone is productive.
+ -Product owner: makes the main decisions with regards to the product e.g. release date and defining features.
+-Advantages:
+ -It is flexible and adaptable
+ -It allows creativity and innovation
+ -It produces lower cost and improves quality
+ -There are higher chances of total customer satisfaction
+-Disadvantages
+ -Training and skill is a requirement
+ -The organisation may need to introduce changes in order for it to work
+ -It may be difficult to scale
+-Implementation over other techniques
+ -When requirements are not defined clearly enough
+ -When there is a high probability for change in the environment
+ -When there is a need to test solutions
+ -When the team has self-management skills
+
+2. Extreme programming
+-Key features:
+ -Communication
+ -Simplicity
+ -Feedback
+ -Respect
+ -Courage
+-Other key features include:
+ -Test driven development
+ -Test automation
+ -Continuous Integration
+ -Collective code ownership
+ -Pair programming
+-Advantages
+ -Open communication channels allow everyone to stay up to date
+ -Costs-feedback loop is reduced
+ -Encourages teamwork
+-Disadvantages
+ -Location: it is difficult to implement when the customer is not around
+ -There is a lack of documentation as the constant changes may not be properly documented
+ -Stress from working under pressure due to tight deadlines
+ -More focus is placed on code than design
+-Implementation over other techniques:
+ -When there is a need to adapt to fast-changing requirements
+ -Helps to avoid problems when working on a new system
+ -Efficient for small teams, preferably under 12 people
+ -The customer is around a lot of the time
